@@ -1,0 +1,6 @@
+Problem description :- 
+A parent process and a child process,
+concurrently copies a source file into a destination file 
+using the same opened files inherited by the child process from 
+the parent process. By using semaphores mutual exclusion is imposed on the two processes 
+that share the space where the copy is made.  
