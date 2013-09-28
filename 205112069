@@ -29,7 +29,6 @@ void V(int semId, int semNr)
 }
 
 void copy(int fdSource, int fdDest, int semId)
-
 {
 
     char c;
